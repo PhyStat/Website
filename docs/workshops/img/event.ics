@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CERN//INDICO//EN
+BEGIN:VEVENT
+SUMMARY:Deep Dive: Likelihood and ML model publishing
+DTSTART:20231106T120000Z
+DTEND:20231106T173000Z
+DTSTAMP:20231025T120800Z
+UID:indico-event-1337892@indico.cern.ch
+DESCRIPTION:https://indico.cern.ch/event/1337892/\n\nPhysics Coordination 
+ meeting: https://cern.zoom.us/j/64875461696?pwd=elcwTVYzbnZMRURuTXJvUUVwUT
+ NaUT09
+LOCATION:40/S2-B01 - Salle Bohr (CERN)
+URL:https://indico.cern.ch/event/1337892/
+END:VEVENT
+END:VCALENDAR

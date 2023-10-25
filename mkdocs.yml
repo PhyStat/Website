@@ -1,0 +1,18 @@
+site_name: PHYSTAT 
+
+nav:
+  - Home: index.md
+  - Phystat Seminars: seminars.md
+  - Phystat Workshops: workshops.md
+
+#theme: cosmo
+theme: united
+
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+
+markdown_extensions:
+    - pymdownx.arithmatex
+    - pymdownx.details
+    - pymdownx.blocks.details
+    - admonition
