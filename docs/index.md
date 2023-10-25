@@ -28,6 +28,11 @@ Please take note that you can also [subscribe here](https://e-groups.cern.ch/e-g
 
 **The PHYSTAT EVENTS Indico Page is [here](https://indico.cern.ch/category/10790/)**
 
+Subscribe to the google calendar below to make sure you never miss an upcoming event! 
+
+```
+8fun2qd3u76njptm4vujonscqo8a29iv@import.calendar.google.com
+```
 
 ## PHYSTAT advisory Committee (2023):
 
