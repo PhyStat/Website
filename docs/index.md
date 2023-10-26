@@ -30,7 +30,7 @@ Please take note that you can [subscribe here](https://e-groups.cern.ch/e-groups
 
 You can also subscribe to the google calendar below to make sure you never miss an upcoming event! 
 
-```
+```bash
 8fun2qd3u76njptm4vujonscqo8a29iv@import.calendar.google.com
 ```
 
