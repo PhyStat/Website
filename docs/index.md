@@ -26,7 +26,7 @@ Louis Lyons: +442075947804; Lydia Brenner: +31205922009; Nicholas Wardle: +44207
 Please take note that you can [subscribe here](https://e-groups.cern.ch/e-groups/EgroupsSubscription.do?egroupName=phystat-events) to our PHYSTAT Event news email list
 (this requires a CERN computing account, if you don't have one you can easily register for a CERN lightweight at [this webpage](https://account.cern.ch/account/Externals/RegisterAccount.aspx))
 
-**The PHYSTAT EVENTS Indico Page is [here](https://indico.cern.ch/category/10790/)**. You can find PHYSTAT Seminars and Workshops there. 
+**The PHYSTAT EVENTS Indico Page is [here](https://indico.cern.ch/category/10790/)**. You can find PHYSTAT Seminars and Workshops there or take a look at the [Seminars](https://phystat.github.io/Website/seminars/#phystat-seminars) and [Workshops](https://phystat.github.io/Website/workshops/#phystat-workshops) pages. 
 
 You can also subscribe to the google calendar below to make sure you never miss an upcoming event! 
 
