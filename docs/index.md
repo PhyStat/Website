@@ -4,7 +4,7 @@
 
 PHYSTAT is an event series dealing with statistical methods in particle physics. It was founded in 2000 by Louis Lyons.
 A wide range of topics is covered: frequentist and Bayesian inference, parameter estimation, hypothesis testing,
-Goodness of Fit testing, confidence interval estimation, unfolding, multivariate analysis techniques, systematic uncertainties,
+Goodness of Fit testing, confidence interval estimation, unfolding, machine learning, systematic uncertainties,
 data combination and more. The workshops provide a unique meeting point of Physicists and Statisticians,
 where the latest advances in statistical techniques and procedures are exchanged. Most of the Workshops have recommended
 reading material, plus links to material to give Statisticians the necessary background in Particle Physics.
