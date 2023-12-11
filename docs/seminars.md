@@ -4,7 +4,8 @@
 
 In this new format a Tandem consisting of a physicist and a statistician will review a statistical method introduced by one of the parties or a general critical analysis topic from the Physicist's and Statistician's perspectives. The virtual events comprise: two 20+10 min. complementary presentations followed by ~30 minutes of general discussion.
 
-  * 24th Jan 2024 (Date to be confirmed in December:)  Bob Cousins (UCLA) and Larry Wasserman (CMU) "Hybrid Frequentist-Bayesian Approaches"
+  * [24th Jan 2024](https://indico.cern.ch/event/1356298/) Bob Cousins (UCLA) and Larry Wasserman (CMU) "Hybrid Frequentist-Bayesian Approaches"
+  * [28th Feb 2024](https://indico.cern.ch/event/1356303/) Roger Barlow (Uni Huddersfield) and Alessandra Brazzale (Uni Padova) "Asymmetric Uncertainties"
 
 ## PHYSTAT SEMINAR SERIES: 
 
