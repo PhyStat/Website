@@ -6,6 +6,7 @@ In this new format a Tandem consisting of a physicist and a statistician will re
 
   * [24th Jan 2024](https://indico.cern.ch/event/1356298/) Bob Cousins (UCLA) and Larry Wasserman (CMU) "Hybrid Frequentist-Bayesian Approaches"
   * [28th Feb 2024](https://indico.cern.ch/event/1356303/) Roger Barlow (Uni Huddersfield) and Alessandra Brazzale (Uni Padova) "Asymmetric Uncertainties"
+  *  [8th May 2024](https://indico.cern.ch/event/1357458/) Tom Junk (FNAL) and Alex Read (Uni Oslo) "CLs criterion for limit setting"
 
 ## PHYSTAT SEMINAR SERIES: 
 
