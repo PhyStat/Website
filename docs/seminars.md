@@ -6,12 +6,13 @@ In this new format a Tandem consisting of a physicist and a statistician will re
 
   * [24th Jan 2024](https://indico.cern.ch/event/1356298/) Bob Cousins (UCLA) and Larry Wasserman (CMU) "Hybrid Frequentist-Bayesian Approaches"
   * [28th Feb 2024](https://indico.cern.ch/event/1356303/) Roger Barlow (Uni Huddersfield) and Alessandra Brazzale (Uni Padova) "Asymmetric Uncertainties"
-  *  [8th May 2024](https://indico.cern.ch/event/1357458/) Tom Junk (FNAL), Alex Read (Uni Oslo) and Mike Evans (Toronto) "CLs criterion for limit setting"
+  * [15th May 2024](https://indico.cern.ch/event/1357458/) Tom Junk (FNAL), Alex Read (Uni Oslo) and Mike Evans (Toronto) "CLs criterion for limit setting"
 
 ## PHYSTAT SEMINAR SERIES: 
 
 Click on the dates for the links to the individual indico seminar pages
 
+   * [10th Jan 2024](https://indico.cern.ch/event/1360660/)    Alan Heavens (Imperial) "Extreme Lossless Data Compression for Likelihood-Free Inference"
    * [25th Oct 2023](https://indico.cern.ch/event/1328619/)    Lydia Brenner (Nikhef) "Comparison of Unfolding methods"
    * [27th Sept 2023](https://indico.cern.ch/event/1320100/)     Harrison Prosper (Florida State) "Likelihood-free inference"
    * [6th Sept 2023](https://indico.cern.ch/event/1315922/)      Galin Jones (Minnesota) "Practical Markov Chain Monte Carlo"
