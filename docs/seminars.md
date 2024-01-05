@@ -12,6 +12,7 @@ In this new format a Tandem consisting of a physicist and a statistician will re
 
 Click on the dates for the links to the individual indico seminar pages
 
+   * [13th Mar 2024](https://indico.cern.ch/event/1362672/)    Charles Geyer (UMN) "An Introduction to the Nonparametric Bootstrap"
    * [10th Jan 2024](https://indico.cern.ch/event/1360660/)    Alan Heavens (Imperial) "Extreme Lossless Data Compression for Likelihood-Free Inference"
    * [25th Oct 2023](https://indico.cern.ch/event/1328619/)    Lydia Brenner (Nikhef) "Comparison of Unfolding methods"
    * [27th Sept 2023](https://indico.cern.ch/event/1320100/)     Harrison Prosper (Florida State) "Likelihood-free inference"
