@@ -3,8 +3,10 @@
 ## Future PHYSTAT Workshops:
 
  * In the making: PHYSTAT for Unfolding
-
+ * [PHYSTAT-SBI](https://indico.cern.ch/event/1355601/): Simulation Based Inference in Fundamental Physics, 15-17 May 2024
+   
 ## Links to past events: PHYSTAT (and related) workshops:
+
 
    * [PHYSTAT-2sample](https://indico.cern.ch/event/1258983/): for 2 sample and GOF tests, 1-2 June 2023
    * [BIRS workshop (23w5096) (Banff)](https://www.birs.ca/events/2023/5-day-workshops/23w5096): "Systematic Effects and Nuisance Parameters in Particle Physics Data Analyses", 23-28 Apr 2023
