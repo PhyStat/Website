@@ -2,7 +2,7 @@
 
 ## Future PHYSTAT Workshops:
 
- * [France-Berkeley PHYSTAT Unfolding](https://indico.cern.ch/event/1357972/): France-Berkeley PHYSTAT Conference on Unfolding, 10-13 June 2024
+ * [UNFOLDING](https://indico.cern.ch/event/1357972/): France-Berkeley PHYSTAT Conference on Unfolding, 10-13 June 2024
  * [PHYSTAT-SBI](https://indico.cern.ch/event/1355601/): Simulation Based Inference in Fundamental Physics, 15-17 May 2024
    
 ## Links to past events: PHYSTAT (and related) workshops:
