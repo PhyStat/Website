@@ -13,6 +13,11 @@ comprehensive reference on statistical issues and state of the art methods used 
 Since the beginning of 2018, Olaf Behnke (DESY) is the chairperson of PHYSTAT.  In 2019, he initiated the PHYSTAT Seminar series, 
 which take place about once per month.
 
+Click on the links below to see our upcoming Seminars and Workshops: 
+
+<button style='background-color: #307ce4; border-color: #307ce4; color:white;'; onclick="window.location.href='https://phystat.github.io/Website/workshops/#phystat-seminars';" >Seminars</button>
+<button style='background-color: #307ce4; border-color: #307ce4; color:white;'; onclick="window.location.href='https://phystat.github.io/Website/workshops/#phystat-workshops';" >Workshops</button>
+
 ## PHYSTAT event organizer core team:
 Louis Lyons (Imperial & Oxford), Lydia Brenner (Nikhef),  Nick Wardle (Imperial), Olaf Behnke (DESY) and Sara Algeri (UMN)
 
