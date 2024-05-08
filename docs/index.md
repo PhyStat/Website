@@ -15,7 +15,7 @@ which take place about once per month.
 
 Click on the links below to see our upcoming Seminars and Workshops: 
 
-<button style='background-color: #307ce4; border-color: #307ce4; color:white;'; onclick="window.location.href='https://phystat.github.io/Website/workshops/#phystat-seminars';" >Seminars</button>
+<button style='background-color: #307ce4; border-color: #307ce4; color:white;'; onclick="window.location.href='https://phystat.github.io/Website/seminars/#phystat-seminars';" >Seminars</button>
 <button style='background-color: #307ce4; border-color: #307ce4; color:white;'; onclick="window.location.href='https://phystat.github.io/Website/workshops/#phystat-workshops';" >Workshops</button>
 
 ## PHYSTAT event organizer core team:
