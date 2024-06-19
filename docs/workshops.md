@@ -2,12 +2,12 @@
 
 ## Future PHYSTAT Workshops:
 
- * [UNFOLDING](https://indico.cern.ch/event/1357972/): France-Berkeley PHYSTAT Conference on Unfolding, 10-13 June 2024
- * [PHYSTAT-SBI](https://indico.cern.ch/event/1355601/): Simulation Based Inference in Fundamental Physics, 15-17 May 2024
-   
+   * [Statistics Meets ML](https://indico.cern.ch/event/1407421/): UK-Imperial PHYSTAT Conference on the interface of Statistics and Machine Learning in Particle Physics and Astrophysics, 9-12 Sep 2024 
+        
 ## Links to past events: PHYSTAT (and related) workshops:
 
-
+   * [UNFOLDING](https://indico.cern.ch/event/1357972/): France-Berkeley PHYSTAT Conference on Unfolding, 10-13 June 2024
+   * [PHYSTAT-SBI](https://indico.cern.ch/event/1355601/): Simulation Based Inference in Fundamental Physics, 15-17 May 2024
    * [PHYSTAT-2sample](https://indico.cern.ch/event/1258983/): for 2 sample and GOF tests, 1-2 June 2023
    * [BIRS workshop (23w5096) (Banff)](https://www.birs.ca/events/2023/5-day-workshops/23w5096): "Systematic Effects and Nuisance Parameters in Particle Physics Data Analyses", 23-28 Apr 2023
    * [PHYSTAT- Gamma 2022](https://indico.cern.ch/event/1122011/): High Energy Gamma Ray Astronomy in a Multi-Wavelength Context,   27-30 Sep 2022
