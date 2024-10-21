@@ -2,7 +2,7 @@
 
 ## Future PHYSTAT Workshops or Symposia:
 
-    * [PHYSTAT 25](https://indico.cern.ch/event/1465837/): PHYSTAT 25 Anniversary, 16 Jan 2025
+   * [PHYSTAT 25](https://indico.cern.ch/event/1465837/): PHYSTAT 25 Anniversary Symposium, 16 Jan 2025, 13:00-18:00 CERN time
         
 ## Links to past events: PHYSTAT (and related) workshops:
 
