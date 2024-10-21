@@ -1,11 +1,12 @@
 # PHYSTAT Workshops
 
-## Future PHYSTAT Workshops:
+## Future PHYSTAT Workshops or Symposia:
 
-   * [Statistics Meets ML](https://indico.cern.ch/event/1407421/): UK-Imperial PHYSTAT Conference on the interface of Statistics and Machine Learning in Particle Physics and Astrophysics, 9-12 Sep 2024 
+    * [PHYSTAT 25](https://indico.cern.ch/event/1465837/): PHYSTAT 25 Anniversary, 16 Jan 2025
         
 ## Links to past events: PHYSTAT (and related) workshops:
 
+   * [Statistics Meets ML](https://indico.cern.ch/event/1407421/): UK-Imperial PHYSTAT Conference on the interface of Statistics and Machine Learning in Particle Physics and Astrophysics, 9-12 Sep 2024 
    * [UNFOLDING](https://indico.cern.ch/event/1357972/): France-Berkeley PHYSTAT Conference on Unfolding, 10-13 June 2024
    * [PHYSTAT-SBI](https://indico.cern.ch/event/1355601/): Simulation Based Inference in Fundamental Physics, 15-17 May 2024
    * [PHYSTAT-2sample](https://indico.cern.ch/event/1258983/): for 2 sample and GOF tests, 1-2 June 2023
