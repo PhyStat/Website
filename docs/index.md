@@ -54,3 +54,23 @@ You can also subscribe to the google calendar below to make sure you never miss 
    * Ben Nachman (Berkeley) [bpnachman@lbl.gov](mailto:bpnachman@lbl.gov)
    * Nicholas Wardle (Imperial) [nw709@ic.ac.uk](mailto:nw709@ic.ac.uk)
    * Sarah Williams (Cambridge) [sarah.louise.williams@cern.ch](mailto:sarah.louise.williams@cern.ch)
+
+## Code of Conduct:
+By participating in a PHYSTAT event, you agree to conduct yourself in a professional manner that is welcoming to all participants 
+and free from any form of discrimination, harassment, or retaliation. Participants will treat each other 
+with respect and consideration to create a collegial, inclusive, and professional environment. 
+Creating a supportive environment to enable scientific discourse is the responsibility of all participants.
+
+Participants will avoid any inappropriate actions or statements based on individual characteristics 
+such as age, race, ethnicity, sexual orientation, gender identity, gender expression, marital status, 
+nationality, political affiliation, ability status, educational background, or any other characteristic protected by law. 
+Disruptive or harassing behavior of any kind will not be tolerated. Harassment includes but is not limited to 
+inappropriate or intimidating behavior and language, unwelcome jokes or comments, offensive images, and stalking.
+
+Violations of this code of conduct policy should be reported to the meeting organizers. Sanctions may range from verbal warning, 
+to ejection from the meeting, to notifying appropriate authorities. Retaliation for complaints of inappropriate conduct will not be tolerated. 
+If a participant observes inappropriate comments or actions and personal intervention seems appropriate and safe, 
+they should be considerate of all parties before intervening.
+Our code of conduct for this workshop is adapted from the American Physical Society Code of Conduct: [
+](https://www.aps.org/meetings/policies/code-conduct.cfm)
+
