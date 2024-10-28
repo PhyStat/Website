@@ -71,6 +71,6 @@ Violations of this code of conduct policy should be reported to the meeting orga
 to ejection from the meeting, to notifying appropriate authorities. Retaliation for complaints of inappropriate conduct will not be tolerated. 
 If a participant observes inappropriate comments or actions and personal intervention seems appropriate and safe, 
 they should be considerate of all parties before intervening.
-Our code of conduct for this workshop is adapted from the [APS Code of Conduct:
+Our code of conduct for PHYSTAT events is adapted from the [APS Code of Conduct:
 ](https://www.aps.org/meetings/policies/code-conduct.cfm)
 
