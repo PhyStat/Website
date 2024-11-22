@@ -27,10 +27,11 @@ Louis Lyons: +442075947804; Lydia Brenner: +31205922009; Nicholas Wardle: +44207
 
 
 ## Upcoming and Past Events:
-Please take note that you can [subscribe here](https://e-groups.cern.ch/e-groups/EgroupsSubscription.do?egroupName=phystat-events) to our PHYSTAT Event news email list
-(this requires a CERN computing account, if you don't have one you can easily register for a CERN lightweight at [this webpage](https://account.cern.ch/account/Externals/RegisterAccount.aspx))
 
 **The PHYSTAT EVENTS Indico Page is [here](https://indico.cern.ch/category/10790/)**, where we organize since end of 2021 all workshops and seminars. For the full list containing also previous events please take a look at the [Seminars](https://phystat.github.io/Website/seminars/#phystat-seminars) and [Workshops](https://phystat.github.io/Website/workshops/#phystat-workshops) pages. 
+
+Please take note that you can [subscribe here](https://e-groups.cern.ch/e-groups/EgroupsSubscription.do?egroupName=phystat-events) to our PHYSTAT Event news email list
+(this requires a CERN computing account, if you don't have one you can easily register for a CERN lightweight at [this webpage](https://account.cern.ch/account/Externals/RegisterAccount.aspx))
 
 You can also subscribe to the google calendar below to make sure you never miss an upcoming event! 
 
@@ -40,10 +41,9 @@ You can also subscribe to the google calendar below to make sure you never miss 
 
 ## PHYSTAT advisory Committee (2023):
 
-   * Olaf Behnke (DESY) [Chair] [olaf.behnke@desy.de](mailto:olaf.behnke@desy.de)
-   * Louis Lyons (Imperial) [louis.lyons@physics.ox.ac.uk](mailto:louis.lyons@physics.ox.ac.uk)
+   * Olaf Behnke (DESY) [Co-Chair] [olaf.behnke@desy.de](mailto:olaf.behnke@desy.de)
+   * Lydia Brenner (Nikhef) [Co-Chair] [lydia.brenner@cern.ch](mailto:lydia.brenner@cern.ch)
    * Sara Algeri (Minnesota) [salgeri@umn.edu](mailto:salgeri@umn.edu)
-   * Lydia Brenner (Nikhef) [lydia.brenner@cern.ch](mailto:lydia.brenner@cern.ch)
    * Robert Cousins (UCLA) [cousins@physics.ucla.edu](mailto:cousins@physics.ucla.edu)
    * Glen Cowan (RHUL) [g.cowan@rhul.ac.uk](mailto:g.cowan@rhul.ac.uk)
    * Kyle Cranmer (NYU)  [kyle.cranmer@cern.ch](mailto:kyle.cranmer@cern.ch)
@@ -51,6 +51,7 @@ You can also subscribe to the google calendar below to make sure you never miss 
    * Thomas R. Junk (FNAL) [trj@fnal.gov](mailto:trj@fnal.gov)
    * Mikael Kuusela (CMU) [mikael.kuusela@cern.ch](mailto:mikael.kuusela@cern.ch)
    * Richard Lockhart (Simon Fraser) [lockhart@sfu.ca](mailto:lockhart@sfu.ca)
+   * Louis Lyons (Imperial) [louis.lyons@physics.ox.ac.uk](mailto:louis.lyons@physics.ox.ac.uk)
    * Ben Nachman (Berkeley) [bpnachman@lbl.gov](mailto:bpnachman@lbl.gov)
    * Nicholas Wardle (Imperial) [nw709@ic.ac.uk](mailto:nw709@ic.ac.uk)
    * Sarah Williams (Cambridge) [sarah.louise.williams@cern.ch](mailto:sarah.louise.williams@cern.ch)
