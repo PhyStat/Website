@@ -4,7 +4,7 @@
 
 In this new format a Tandem consisting of a physicist and a statistician will review a statistical method introduced by one of the parties or a general critical analysis topic from the Physicist's and Statistician's perspectives. The virtual events comprise: two 20+10 min. complementary presentations followed by ~30 minutes of general discussion.
 
-  * [16th Aor 2025](https://indico.cern.ch/event/1502125/) Michael Schmelling (MPI HD) and Chad Shafer (CMU) on "sPlots"
+  * [16th Apr 2025](https://indico.cern.ch/event/1502125/) Michael Schmelling (MPI HD) and Chad Shafer (CMU) on "sPlots"
   * [12th Mar 2025](https://indico.cern.ch/event/1502081) Gaia Grosso (IAFI), Marco Letizia (Genoa), Alessandra Brazzale (Padova) and Arthur Gretton (UCL) "GOF tests via ML"
   * [4th Dec 2024](https://indico.cern.ch/event/1464776/) Matt Kenzie (Cambridge) and Anthony Davison (EPFL) "Discrete Profiling"
   * [30th Oct 2024](https://indico.cern.ch/event/1464775/) Glen Cowan (RHUL), Enzo Canonero (RHUL), and Richard Lockhart (SFU) "Errors on Errors"
