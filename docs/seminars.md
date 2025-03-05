@@ -17,6 +17,7 @@ In this new format a Tandem consisting of a physicist and a statistician will re
 
 Click on the dates for the links to the individual indico seminar pages
 
+   * [26th Mar 2025](https://indico.cern.ch/event/1482261/)    Alessandra Brazzale (Uni Padova) "Likelihood Asymptotics in Nonregular Settings: A review with Emphasis on the Likelihood Ratio" Joint with CERN DS seminar
    * [10th Apr 2024](https://indico.cern.ch/event/1388109/)    Hans Dembinski (Dortmund) "Template Fits"
    * [13th Mar 2024](https://indico.cern.ch/event/1362672/)    Charles Geyer (UMN) "An Introduction to the Nonparametric Bootstrap"
    * [10th Jan 2024](https://indico.cern.ch/event/1360660/)    Alan Heavens (Imperial) "Extreme Lossless Data Compression for Likelihood-Free Inference"
