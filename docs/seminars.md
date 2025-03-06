@@ -17,7 +17,7 @@ In this new format a Tandem consisting of a physicist and a statistician will re
 
 Click on the dates for the links to the individual indico seminar pages
 
-   * [3rd Apr 2025](https://indico.cern.ch/event/1523388/)     Yoshua Bengio (Uni Montreal) "Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI OFfer a Safer Path?"
+   * [3rd Apr 2025](https://indico.cern.ch/event/1522388/)     Yoshua Bengio (Uni Montreal) "Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI OFfer a Safer Path?"
    * [26th Mar 2025](https://indico.cern.ch/event/1482261/)    Alessandra Brazzale (Uni Padova) "Likelihood Asymptotics in Nonregular Settings: A review with Emphasis on the Likelihood Ratio" Joint with CERN DS seminar
    * [10th Apr 2024](https://indico.cern.ch/event/1388109/)    Hans Dembinski (Dortmund) "Template Fits"
    * [13th Mar 2024](https://indico.cern.ch/event/1362672/)    Charles Geyer (UMN) "An Introduction to the Nonparametric Bootstrap"
