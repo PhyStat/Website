@@ -2,7 +2,7 @@
 
 ## Future PHYSTAT Workshops or Schools:
 
-   * [1st PHYSTAT School](https://indico.cern.ch/event/1537633/): 1st PHYSTAT School "Statistics in the era of ML", 17-21 Nov 2025
+   * [1st PHYSTAT School](https://indico.cern.ch/event/1537633/): (Nooitgedacht, Netherlands) 1st PHYSTAT School "Statistics in the era of ML", 17-21 Nov 2025
         
 ## Links to past events: PHYSTAT (and related) workshops:
 
