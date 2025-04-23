@@ -12,7 +12,7 @@ The workshops’ timetables have ample time assigned for discussions.  The recor
 comprehensive reference on statistical issues and state of the art methods used in particle physics and neighbouring fields.
 Olaf Behnke and Lydia Brenner are the current co-chairpersons of PHYSTAT.  In 2019, the PHYSTAT Seminar series were initiated by Olaf, which take place about once per month.
 
-Click on the links below to see our upcoming Seminars and Workshops: 
+Click on the links below to see our upcoming Seminars and Workshops or Schools: 
 
 <button style='background-color: #307ce4; border-color: #307ce4; color:white;'; onclick="window.location.href='https://phystat.github.io/Website/seminars/#phystat-seminars';" >Seminars</button>
 <button style='background-color: #307ce4; border-color: #307ce4; color:white;'; onclick="window.location.href='https://phystat.github.io/Website/workshops/#phystat-workshops';" >Workshops and Schools</button>
@@ -28,7 +28,7 @@ Louis Lyons: +442075947804; Lydia Brenner: +31205922009; Nicholas Wardle: +44207
 
 ## Upcoming and Past Events:
 
-**The PHYSTAT EVENTS Indico Page is [here](https://indico.cern.ch/category/10790/)**, where we organize since end of 2021 all workshops and seminars. For the full list containing also previous events please take a look at the [Seminars](https://phystat.github.io/Website/seminars/#phystat-seminars) and [Workshops](https://phystat.github.io/Website/workshops/#phystat-workshops) pages. 
+**The PHYSTAT EVENTS Indico Page is [here](https://indico.cern.ch/category/10790/)**, where we organize since end of 2021 all workshops and seminars. For the full list containing also previous events please take a look at the [Seminars](https://phystat.github.io/Website/seminars/#phystat-seminars) and [Workshops and Schools](https://phystat.github.io/Website/workshops/#phystat-workshops) pages. 
 
 Please take note that you can [subscribe here](https://e-groups.cern.ch/e-groups/EgroupsSubscription.do?egroupName=phystat-events) to our PHYSTAT Event news email list
 (this requires a CERN computing account, if you don't have one you can easily register for a CERN lightweight at [this webpage](https://account.cern.ch/account/Externals/RegisterAccount.aspx))
