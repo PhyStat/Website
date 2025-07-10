@@ -19,7 +19,7 @@ In this new format a Tandem consisting of a physicist and a statistician will re
 
 Click on the dates for the links to the individual indico seminar pages
 
-   * [16th Jul 2025](https://indico.cern.ch/event/1544068/)    Lukas Heinrich (TUM) "Foundational models"
+   * [Postponed, new date to be defined](https://indico.cern.ch/event/1544068/)    Lukas Heinrich (TUM) "Foundational models"
    * [28th May 2025](https://indico.cern.ch/event/1541473/)    Pavel Nadolsky (SMU) and Maria Ubiali (Cambridge) "Uncertainty quantification for Parton Density Distributions (PDFs)"
    * [3rd Apr 2025](https://indico.cern.ch/event/1522388/)     Yoshua Bengio (Uni Montreal) "Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI OFfer a Safer Path?"
    * [26th Mar 2025](https://indico.cern.ch/event/1482261/)    Alessandra Brazzale (Uni Padova) "Likelihood Asymptotics in Nonregular Settings: A review with Emphasis on the Likelihood Ratio" Joint with CERN DS seminar
