@@ -3,7 +3,7 @@
 ## Future events:
 
    * [1st PHYSTAT School](https://indico.cern.ch/event/1537633/): (Nooitgedacht, Netherlands) 1st PHYSTAT School "Statistics in the era of ML", 17-21 Nov 2025
-   * [PHYSTAT-PDF4LHC](https://indico.cern.ch/event/1553776/): (CERN) 1st "Workshop: PDF4LHC with PHYSTAT", 6-7 Oct 2025
+   * [PHYSTAT-PDF4LHC](https://indico.cern.ch/event/1553776/): (CERN) "Workshop: PDF4LHC with PHYSTAT", 6-7 Oct 2025
         
 ## Links to past events: 
 
