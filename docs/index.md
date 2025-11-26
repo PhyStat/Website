@@ -18,10 +18,10 @@ Click on the links below to see our upcoming Seminars and Workshops or Schools:
 <button style='background-color: #307ce4; border-color: #307ce4; color:white;'; onclick="window.location.href='https://phystat.github.io/Website/workshops/#phystat-workshops';" >Workshops and Schools</button>
 
 ## PHYSTAT event organizer core team:
-Louis Lyons (Imperial & Oxford), Lydia Brenner (Nikhef),  Nick Wardle (Imperial), Olaf Behnke (DESY) and Sara Algeri (UMN)
+Louis Lyons (Imperial & Oxford), Lydia Brenner (Nikhef),  Nick Wardle (Imperial), Olaf Behnke (DESY), Sara Algeri (UMN), Thea Aarrestad (ETH)
 
 We are happy for your comments on the program including suggestions on topics and speakers of future events, please contact us by email to
-[louis.lyons@physics.ox.ac.uk](mailto:louis.lyons@physics.ox.ac.uk), [lbrenner@nikhef.nl](mailto:lbrenner@nikhef.nl),[nw709@ic.ac.uk](mailto:nw709@ic.ac.uk), [olaf.behnke@desy.de](mailto:olaf.behnke@desy.de), [salgeri@umn.edu](mailto:salgeri@umn.edu)
+[louis.lyons@physics.ox.ac.uk](mailto:louis.lyons@physics.ox.ac.uk), [lbrenner@nikhef.nl](mailto:lbrenner@nikhef.nl),[nw709@ic.ac.uk](mailto:nw709@ic.ac.uk), [olaf.behnke@desy.de](mailto:olaf.behnke@desy.de), [salgeri@umn.edu](mailto:salgeri@umn.edu), [thea.aarrestad@cern.ch](mailto:thea.aarrestad@cern.ch).
 or via phone:
 Louis Lyons: +442075947804; Lydia Brenner: +31205922009; Nicholas Wardle: +442075943419; Olaf Behnke: +494089983854 
 
