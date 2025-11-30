@@ -4,6 +4,7 @@
 
 In this new format a Tandem consisting of a physicist and a statistician will review a statistical method introduced by one of the parties or a general critical analysis topic from the Physicist's and Statistician's perspectives. The virtual events comprise: two 20+10 min. complementary presentations followed by ~30 minutes of general discussion.
 
+  * [4th Feb 2026](https://indico.cern.ch/event/1617509/) Aritra Banerjee (UMN), Oliver Rieger (Nikhef) on "Spurious signal method"
   * [12nd Nov 2025](https://indico.cern.ch/event/1557959/) Abhijith Gandrakota (FNAL), Marcin Jurek (SMU) on "Signal extraction via Gaussian Processes"
   * [22nd Oct 2025](https://indico.cern.ch/event/1553294/) **-POSTPONED to not yet known Date -**  Anja Butter (CNRS Paris) and Mikael Kuusela (CMU) on "ML-based unfolding"
   * [21th May 2025](https://indico.cern.ch/event/1502125/) Michael Schmelling (MPI HD) and Chad Shafer (CMU) on "sPlots" 
@@ -18,8 +19,7 @@ In this new format a Tandem consisting of a physicist and a statistician will re
 ## PHYSTAT SEMINAR SERIES: 
 
 Click on the dates for the links to the individual indico seminar pages
-
-   * [Postponed, new date to be defined](https://indico.cern.ch/event/1544068/)    Lukas Heinrich (TUM) "Foundational models"
+   * [28th January 2026](https://indico.cern.ch/event/1617508/) Taylor Hoyt (LBNL) "Systematics in direct measurements of the Hubble constant"
    * [8th October 2025](https://indico.cern.ch/event/1577257/) Cristina Alexe (Pisa) "Under-coverage in high-statistics counting experiments with finite MC samples"
    * [28th May 2025](https://indico.cern.ch/event/1541473/)    Pavel Nadolsky (SMU) and Maria Ubiali (Cambridge) "Uncertainty quantification for Parton Density Distributions (PDFs)"
    * [3rd Apr 2025](https://indico.cern.ch/event/1522388/)     Yoshua Bengio (Uni Montreal) "Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI OFfer a Safer Path?"
