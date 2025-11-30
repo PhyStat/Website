@@ -19,6 +19,7 @@ In this new format a Tandem consisting of a physicist and a statistician will re
 ## PHYSTAT SEMINAR SERIES: 
 
 Click on the dates for the links to the individual indico seminar pages
+
    * [28th January 2026](https://indico.cern.ch/event/1617508/) Taylor Hoyt (LBNL) "Systematics in direct measurements of the Hubble constant"
    * [8th October 2025](https://indico.cern.ch/event/1577257/) Cristina Alexe (Pisa) "Under-coverage in high-statistics counting experiments with finite MC samples"
    * [28th May 2025](https://indico.cern.ch/event/1541473/)    Pavel Nadolsky (SMU) and Maria Ubiali (Cambridge) "Uncertainty quantification for Parton Density Distributions (PDFs)"
