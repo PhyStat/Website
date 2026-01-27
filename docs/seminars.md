@@ -21,6 +21,7 @@ In this new format a Tandem consisting of a physicist and a statistician will re
 
 Click on the dates for the links to the individual indico seminar pages
 
+   * [20th May 2026](https://indico.cern.ch/event/1642992/)  Mishra Siddhartha (ETH Zurich) "AI for general Physics and Engineering"
    * [6th May 2026](https://indico.cern.ch/event/1635555/)  Lu Yang (UMN) "Introduction to Copulas"
    * [28th January 2026](https://indico.cern.ch/event/1617508/) Taylor Hoyt (LBNL) "Systematics in direct measurements of the Hubble constant"
    * [8th October 2025](https://indico.cern.ch/event/1577257/) Cristina Alexe (Pisa) "Under-coverage in high-statistics counting experiments with finite MC samples"
