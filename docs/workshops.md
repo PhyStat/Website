@@ -2,7 +2,7 @@
 
 ## Future events:
   
-   * [PHYSTAT - Statistics meets ML - VERaIPHY](https://indico.cern.ch/event/1617006): 2nd PHYSTAT Topical Meeting on "Statistics meets ML" 16-17 Jan 2026
+   * [PHYSTAT - Statistics meets ML - VERaIPHY](https://indico.cern.ch/event/1617006): (NIKHEF, Amsterdam) 2nd PHYSTAT Topical Meeting on "Statistics meets ML" 16-17 Jan 2026
    
         
 ## Links to past events:
