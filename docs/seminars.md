@@ -23,7 +23,7 @@ Click on the dates for the links to the individual indico seminar pages
    
    * [7th October 2026](https://indico.cern.ch/event/1702331/)  Matthias Vigl (TU Munich) "Double Descent and Overparametrization in Particle Physics Data"
    * [23rd September 2026](https://indico.cern.ch/event/1702329/)  Sean Benevedes (MIT) "Frequentist Uncertatinties on Neural Density Ratios with wifi Ensembles"
-   * [1st July 2026](https://indico.cern.ch/event/1684343/)  Davide Valsecchi (ETH Zurich) "Profiling systematic uncertainties in Simulation-Based Inference with Factorizable Normalizing Flows"
+   * [1st July 2026](https://indico.cern.ch/event/1694343/)  Davide Valsecchi (ETH Zurich) "Profiling systematic uncertainties in Simulation-Based Inference with Factorizable Normalizing Flows"
    * [20th May 2026](https://indico.cern.ch/event/1642992/)  Mishra Siddhartha (ETH Zurich) "AI for general Physics and Engineering"
    * [13th May 2026](https://indico.cern.ch/event/1635555/)  Lu Yang (UMN) "Introduction to Copulas"
    * [28th January 2026](https://indico.cern.ch/event/1617508/) Taylor Hoyt (LBNL) "Systematics in direct measurements of the Hubble constant"
