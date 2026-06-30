@@ -39,7 +39,7 @@ You can also subscribe to the google calendar below to make sure you never miss 
 8fun2qd3u76njptm4vujonscqo8a29iv@import.calendar.google.com
 ```
 
-## PHYSTAT advisory Committee (2023):
+## PHYSTAT advisory Committee (2026):
 
    * Olaf Behnke (DESY) [Co-Chair] [olaf.behnke@desy.de](mailto:olaf.behnke@desy.de)
    * Lydia Brenner (Nikhef) [Co-Chair] [lydia.brenner@cern.ch](mailto:lydia.brenner@cern.ch)
