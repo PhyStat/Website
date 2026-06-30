@@ -48,6 +48,7 @@ You can also subscribe to the google calendar below to make sure you never miss 
    * Glen Cowan (RHUL) [g.cowan@rhul.ac.uk](mailto:g.cowan@rhul.ac.uk)
    * Kyle Cranmer (NYU)  [kyle.cranmer@cern.ch](mailto:kyle.cranmer@cern.ch)
    * David van Dyk (Imperial) [d.van-dyk@imperial.ac.uk](mailto:d.van-dyk@imperial.ac.uk)
+   * Aishik Ghosh (Georgia Tech) [aishikghoshoffice@gmail.com](mailto:aishikghoshoffice@gmail.com)
    * Thomas R. Junk (FNAL) [trj@fnal.gov](mailto:trj@fnal.gov)
    * Mikael Kuusela (CMU) [mikael.kuusela@cern.ch](mailto:mikael.kuusela@cern.ch)
    * Richard Lockhart (Simon Fraser) [lockhart@sfu.ca](mailto:lockhart@sfu.ca)
