@@ -8,8 +8,10 @@ nav:
   - Phystat Seminars: seminars.md
   - Phystat Workshops and Schools: workshops.md
 
-theme: cosmo
-#theme: united
+theme: 
+  name: cosmo
+  logo: phystatlogo.png
+  favicon: phystatlogo.png
 
 extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
