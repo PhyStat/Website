@@ -53,7 +53,7 @@ You can also subscribe to the google calendar below to make sure you never miss 
    * Mikael Kuusela (CMU) [mikael.kuusela@cern.ch](mailto:mikael.kuusela@cern.ch)
    * Richard Lockhart (Simon Fraser) [lockhart@sfu.ca](mailto:lockhart@sfu.ca)
    * Louis Lyons (Imperial) [louis.lyons@physics.ox.ac.uk](mailto:louis.lyons@physics.ox.ac.uk)
-   * Ben Nachman (Berkeley) [bpnachman@lbl.gov](mailto:bpnachman@lbl.gov)
+   * Ben Nachman (Berkeley) [nachman@standford.edu](mailto:nachman@stanford.edu)
    * Nicholas Wardle (Imperial) [nw709@ic.ac.uk](mailto:nw709@ic.ac.uk)
    * Sarah Williams (Cambridge) [sarah.louise.williams@cern.ch](mailto:sarah.louise.williams@cern.ch)
 
