@@ -1,12 +1,11 @@
 # PHYSTAT Workshops and Schools
 
 ## Future events:
-  
-   * [PHYSTAT- Statistics meets ML- VERaIPHY](https://indico.cern.ch/event/1617006): (NIKHEF, Amsterdam) 2nd PHYSTAT Topical Meeting on "Statistics meets ML" 16-17 Feb 2026
    
         
 ## Links to past events:
-
+   * [BIRS workshop (23w5096) (Banff)](https://www.birs.ca/events/2026/5-day-workshops/26w5508): "High Dimensional Problems for Statistical Methods in Fundamental Physics Data Analyses", 7-12 June 2026
+   * [PHYSTAT- Statistics meets ML- VERaIPHY](https://indico.cern.ch/event/1617006): (NIKHEF, Amsterdam) 2nd PHYSTAT Topical Meeting on "Statistics meets ML" 16-17 Feb 2026
    * [1st PHYSTAT School](https://indico.cern.ch/event/1537633/): (Nooitgedacht, Netherlands) 1st PHYSTAT School "Statistics in the era of ML", 17-21 Nov 2025
    * [PHYSTAT-PDF4LHC](https://indico.cern.ch/event/1553776/): (CERN) "Workshop: PDF4LHC with PHYSTAT", 6-7 Oct 2025
    * [PHYSTAT 25](https://indico.cern.ch/event/1465837/): PHYSTAT 25 Anniversary Symposium, 16 Jan 2025, 13:00-18:00 CERN time
