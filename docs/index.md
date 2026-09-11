@@ -10,7 +10,7 @@ where the latest advances in statistical techniques and procedures are exchanged
 reading material, plus links to material to give Statisticians the necessary background in Particle Physics.
 The workshops’ timetables have ample time assigned for discussions.  The recordings of the workshops provide a
 comprehensive reference on statistical issues and state of the art methods used in particle physics and neighbouring fields.
-Olaf Behnke and Lydia Brenner are the current co-chairpersons of PHYSTAT.  In 2019, the PHYSTAT Seminar series were initiated by Olaf, which take place about once per month.
+Olaf Behnke and Lydia Brenner are the current co-chairpersons of PHYSTAT.  
 
 Click on the links below to see our upcoming Seminars and Workshops or Schools: 
 
