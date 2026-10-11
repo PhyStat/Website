@@ -21,6 +21,7 @@ In this new format a Tandem consisting of a physicist and a statistician will re
 
 Click on the dates for the links to the individual indico seminar pages
    
+   * [27th January 2027](https://indico.cern.ch/event/1740548/)  Chris Pollard (University of Warwick) "It Just Takes Two: Scaling Amortized Inference to Large Sets"
    * [7th October 2026](https://indico.cern.ch/event/1702331/)  Matthias Vigl (TU Munich) "Double Descent and Overparametrization in Particle Physics Data"
    * [23rd September 2026](https://indico.cern.ch/event/1702329/)  Sean Benevedes (MIT) "Frequentist Uncertatinties on Neural Density Ratios with wifi Ensembles"
    * [1st July 2026](https://indico.cern.ch/event/1694343/)  Davide Valsecchi (ETH Zurich) "Profiling systematic uncertainties in Simulation-Based Inference with Factorizable Normalizing Flows"
