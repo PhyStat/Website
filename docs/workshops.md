@@ -1,7 +1,7 @@
 # PHYSTAT Workshops and Schools
 
 ## Future events:
-   
+   * [2st PHYSTAT School](https://indico.cern.ch/event/1711220/): (Damp, Germany) 2st PHYSTAT School "Statistics in the era of ML", 22 Feb - 2 Mar 2026 
         
 ## Links to past events:
    * [BIRS workshop (23w5096) (Banff)](https://www.birs.ca/events/2026/5-day-workshops/26w5508): "High Dimensional Problems for Statistical Methods in Fundamental Physics Data Analyses", 7-12 June 2026
