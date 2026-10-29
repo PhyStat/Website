@@ -18,10 +18,10 @@ Click on the links below to see our upcoming Seminars and Workshops or Schools:
 <button style='background-color: #307ce4; border-color: #307ce4; color:white;'; onclick="window.location.href='https://phystat.github.io/Website/workshops/#phystat-workshops';" >Workshops and Schools</button>
 
 ## PHYSTAT event organizer core team:
-Gaia Grosso (IAFI), Louis Lyons (Imperial & Oxford), Lydia Brenner (Nikhef),  Nick Wardle (Imperial), Olaf Behnke (DESY), Sara Algeri (UMN), Thea Aarrestad (ETH)
+David van Dyk (Imperial), Gaia Grosso (IAFI), Louis Lyons (Imperial & Oxford), Lydia Brenner (Nikhef),  Nick Wardle (Imperial), Olaf Behnke (DESY), Purvasha Chakravarti (UCL), Sara Algeri (UMN), Thea Aarrestad (ETH)
 
 We are happy for your comments on the program including suggestions on topics and speakers of future events, please contact us by email to
-[gaia.grosso@cern.ch](mailto:gaia.grosso@cern.ch),[louis.lyons@physics.ox.ac.uk](mailto:louis.lyons@physics.ox.ac.uk), [lbrenner@nikhef.nl](mailto:lbrenner@nikhef.nl),[nw709@ic.ac.uk](mailto:nw709@ic.ac.uk), [olaf.behnke@desy.de](mailto:olaf.behnke@desy.de), [salgeri@umn.edu](mailto:salgeri@umn.edu), [thea.aarrestad@cern.ch](mailto:thea.aarrestad@cern.ch).
+[d.van-dyk@imperial.ac.uk](mailto:d.van-dyk@imperial.ac.uk),[gaia.grosso@cern.ch](mailto:gaia.grosso@cern.ch),[louis.lyons@physics.ox.ac.uk](mailto:louis.lyons@physics.ox.ac.uk), [lbrenner@nikhef.nl](mailto:lbrenner@nikhef.nl),[nw709@ic.ac.uk](mailto:nw709@ic.ac.uk), [olaf.behnke@desy.de](mailto:olaf.behnke@desy.de),[p.chakravarti@ucl.ac.uk](mailto:.pchakravarti@ucl.ac.uk), [salgeri@umn.edu](mailto:salgeri@umn.edu), [thea.aarrestad@cern.ch](mailto:thea.aarrestad@cern.ch).
 or via phone:
 Louis Lyons: +442075947804; Lydia Brenner: +31205922009; Nicholas Wardle: +442075943419; Olaf Behnke: +494089983854 
 
@@ -44,6 +44,7 @@ You can also subscribe to the google calendar below to make sure you never miss 
    * Lydia Brenner (Nikhef) [Co-Chair] [lydia.brenner@cern.ch](mailto:lydia.brenner@cern.ch)
    * Thea Aarrestad (ETHZ) [thea.aarrestad@cern.ch](mailto:thea.aarrestad@cern.ch)
    * Sara Algeri (Minnesota) [salgeri@umn.edu](mailto:salgeri@umn.edu)
+   * Purvasha Chakravarti (UCL) [p.chakravarti@ucl.ac.uk](mailto:p.chakravarti@ucl.ac.uk)
    * Robert Cousins (UCLA) [cousins@physics.ucla.edu](mailto:cousins@physics.ucla.edu)
    * Glen Cowan (RHUL) [g.cowan@rhul.ac.uk](mailto:g.cowan@rhul.ac.uk)
    * Kyle Cranmer (NYU)  [kyle.cranmer@cern.ch](mailto:kyle.cranmer@cern.ch)
