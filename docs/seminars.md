@@ -4,7 +4,7 @@
 
 In this new format a Tandem consisting of a physicist and a statistician will review a statistical method introduced by one of the parties or a general critical analysis topic from the Physicist's and Statistician's perspectives. The virtual events comprise: two 20+10 min. complementary presentations followed by ~30 minutes of general discussion.
 
-  * [18th Nov 2026 - POSTPONED to 2027 (Date to be announced)](https://indico.cern.ch/event/1641545/) Purvasha Chakravarti (UCL) and Aishik Ghosh (Georgia Tech) on "Nonparametric ML in HEP"
+  * [18th Nov 2026](https://indico.cern.ch/event/1641545/) POSTPONED to 2027 (Date to be announced:) Purvasha Chakravarti (UCL) and Aishik Ghosh (Georgia Tech) on "Nonparametric ML in HEP"
   * [15th Apr 2026](https://indico.cern.ch/event/1553294/) Anja Butter (CNRS Paris) and Mikael Kuusela (CMU) on "ML-based unfolding"
   * [4th Feb 2026](https://indico.cern.ch/event/1617509/) Aritra Banerjee (UMN), Oliver Rieger (Nikhef) on "Spurious signal method"
   * [12nd Nov 2025](https://indico.cern.ch/event/1557959/) Abhijith Gandrakota (FNAL), Marcin Jurek (SMU) on "Signal extraction via Gaussian Processes"
