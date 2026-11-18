@@ -14,8 +14,8 @@ Olaf Behnke and Lydia Brenner are the current co-chairpersons of PHYSTAT.
 
 Click on the links below to see our upcoming Seminars and Workshops or Schools: 
 
-<button style='background-color: #307ce4; border-color: #307ce4; color:white;'; onclick="window.location.href='https://phystat.github.io/Website/seminars/#phystat-seminars';" >Seminars</button>
-<button style='background-color: #307ce4; border-color: #307ce4; color:white;'; onclick="window.location.href='https://phystat.github.io/Website/workshops/#phystat-workshops';" >Workshops and Schools</button>
+<button style='background-color: #307ce4; border-color: #307ce4; color:white;' onclick="window.location.href='https://phystat.github.io/Website/seminars/#phystat-seminars';" >Seminars</button>
+<button style='background-color: #307ce4; border-color: #307ce4; color:white;' onclick="window.location.href='https://phystat.github.io/Website/workshops/#phystat-workshops';" >Workshops and Schools</button>
 
 ## PHYSTAT event organizer core team:
 David van Dyk (Imperial), Gaia Grosso (IAFI), Louis Lyons (Imperial & Oxford), Lydia Brenner (Nikhef),  Nick Wardle (Imperial), Olaf Behnke (DESY), Purvasha Chakravarti (UCL), Thea Aarrestad (ETH)

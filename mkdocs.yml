@@ -10,7 +10,7 @@ nav:
   - VERaiPHY: veraiphy.md
 
 theme: 
-  name: mkdocs
+  name: cosmo
   logo: phystatlogo.png
   favicon: phystatlogo.png
 
